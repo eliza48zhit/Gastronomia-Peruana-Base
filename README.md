@@ -7,7 +7,7 @@ El contrato ha sido verificado satisfactoriamente para permitir la lectura y esc
 
 Contract Address: 0x64bb2a2140f84316081e70b2e77acdd874274127
 
-Explorer Link: Ver en Basescan
+Explorer Link: [Ver en Basescan](https://basescan.org/address/0x64bb2a2140f84316081e70b2e77acdd874274127#code)
 
 🛠️ Detalles Técnicos
 
