@@ -1,5 +1,3 @@
-¡Perfecto! Aquí tienes el contenido para tu GitHub siguiendo exactamente ese mismo estilo y estructura para el contrato de Perú. Quedará genial en tu perfil junto al de Argentina.
-
 🇵🇪 Gastronomía Peruana - Smart Contract (Base Mainnet)
 Este es un contrato inteligente dedicado a la milenaria y variada cultura culinaria de Perú, desplegado en la red Base. Un proyecto recreativo y educativo que utiliza la tecnología blockchain para registrar platos icónicos y reconocidos mundialmente como el Ceviche, el Lomo Saltado y el Ají de Gallina.
 
